@@ -9,7 +9,7 @@ class Player:
         self.num = num
         self.name = "Player " + str(num)
         self.traps = 0
-        self.position = 90
+        self.position = 1
         self.set_color()
         self.trapped = False
 
